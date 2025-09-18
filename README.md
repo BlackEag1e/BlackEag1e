@@ -6,13 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackeag1e&label=Profile%20views&color=0e75b6&style=flat" alt="blackeag1e" /> </p>
 
-- 🔭 I have done by bachelors at **Sri Eshwar College of Engineering**
+-  Currently , I am working as an Intern at **Bread Financial, BLR**
+
+- 🔭 I have done my B.E ECE at **Sri Eshwar College of Engineering**
 
 - 🌱 I’m am a certified **Networking (CCNA)** Associate.
 
 - 💬 Ask me about **Routing and Switching,OSI,tcp/ip,Configuration**
 
-- 📫 How to reach me **rithishk2003@gmail.com**
+- 📫 How to reach me **rithishk2003@gmail.com** 
+-  Linkedin : https://www.linkedin.com/in/rithish-k-968105268/
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1UeU3to-7Hbbe4hWDmf2PNg1d3qyt48RT?usp=sharing](https://drive.google.com/drive/folders/1UeU3to-7Hbbe4hWDmf2PNg1d3qyt48RT?usp=sharing)
 
